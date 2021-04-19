@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Samed 👋
 
 
 Here are some ideas to get you started:
@@ -13,7 +13,9 @@ Here are some ideas to get you started:
 <p align="left">
   
   <code><img height="50" src="https://github.com/uannabi/-/blob/master/resource/git.svg"></code>
+  <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/linux-ar21.svg"> </code>
   <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/python-icon.svg"> </code>
+  <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Spyder_logo.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
   <code> <img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" width='100'> </code>
@@ -23,4 +25,14 @@ Here are some ideas to get you started:
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
   <hr>
   <p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
+
+
+<div class="social-icons">
+            <a class="social-icon" href="https://www.linkedin.com/in/samedhira/"><i class="fab fa-linkedin-in"></i></a>
+						<a class="social-icon" href="https://github.com/SamedHira626"><i class="fab fa-github"></i></a>
+						<a class="social-icon" href="https://medium.com/@samedhira"><i class="fab fa-medium"></i></a>
+</div>
+ 
+
+ 
+
