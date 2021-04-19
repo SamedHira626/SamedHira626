@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- :blue_heart: I’m currently working on Autonomous Vehicles
+- :blue_heart: I’m currently working on Autonomous Vehicles with NVIDIA Jetson TX2
 - :zap: I’m currently learning Robot Operating System, Gazebo, Rviz
 - :bell: I usually update my website: samedhira.com
 - 📫 How to reach me: samedhira626@gmail.com
