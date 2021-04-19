@@ -27,11 +27,7 @@ Here are some ideas to get you started:
   <p align="center">
 
 
-<div class="social-icons">
-            <a class="social-icon" href="https://www.linkedin.com/in/samedhira/"><i class="fab fa-linkedin-in"></i></a>
-						<a class="social-icon" href="https://github.com/SamedHira626"><i class="fab fa-github"></i></a>
-						<a class="social-icon" href="https://medium.com/@samedhira"><i class="fab fa-medium"></i></a>
-</div>
+
  
 
  
