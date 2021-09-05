@@ -3,8 +3,8 @@
 
 Here are some ideas to get you started:
 
-- :blue_heart: I’m currently working on Autonomous Vehicles with NVIDIA Jetson TX2
-- :zap: I’m currently learning Robot Operating System, Gazebo, Rviz
+- :blue_heart: I’m currently working on Autonomous Vehicles and 3D mapping
+- :zap: I’m currently learning Nvidia Isaac Sim, Nvidia Omniverse, Blender
 - :bell: I usually update my website: http://samedhira.com
 - 📫 How to reach me: samedhira626@gmail.com
 - <a href="https://linkedin.com/in/samedhira" target="blank"><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="samedhira" height="30" width="30" /></a>
