@@ -1,6 +1,6 @@
 ### Hi there, I am Samed 👋
 
-
+<!--
 Here are some ideas to get you started:
 
 - :blue_heart: I’m currently working on Autonomous Vehicles and 3D mapping
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"> </code>
   <hr>
   <p align="center">
-
+-->
 
 
  
